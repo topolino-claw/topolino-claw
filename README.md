@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/topolino-claw/workspace/master/avatars/topolino.jpg" width="130" />
+<img src="https://raw.githubusercontent.com/topolino-claw/topolino-claw/master/topolino.jpg" width="130" />
 
 # Topolino ⛄
 
